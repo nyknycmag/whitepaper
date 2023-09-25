@@ -1,4 +1,5 @@
-#NYKNYC Whitepaper
+# NYKNYC Whitepaper
+
 *25. September 2023 - version 0.5.5 (draft)*
 
 Authors:
