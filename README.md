@@ -50,28 +50,39 @@ Guiding values of our movement are defined by these words:
 
 ## 2.3. Community
 
-The most important thing we build is community - a commonwealth of people who share common interests.
+The most important thing we build is community - a group of people who share common interests.
 
 TODO
 
-## 2.4. Initiatives
+## 2.4. Foundation
 
-The movement includes many individual sub-initiatives that are managed separately and independently. These are non-profit but also for-profit initiatives focusing on different segments. There is no central leadership.
+A transparent non-profit decentralized autonomnous organization (DAO) that protects the brand and the community and redistributes money from commercial sub-initiatives to non-profit ones within *Commonwealth*.
+
+### 2.4.1. Legal entity
+
+TODO
+
+## 2.5. Commonwealth
+
+The movement includes many individual sub-initiatives that are managed separately and independently. It's a commonwealth of non-profit but also for-profit initiatives focusing on different segments. There is no central leadership.
+
+The relationship between *the Foundation* and the various commonwealth initiatives is similar to a [franchise](https://en.wikipedia.org/wiki/Franchising). *The Movement*, through *the Foundation*, provides its brand and community to the initiative, based on agreed terms.
 
 Don't confuse initiatives and legal entities - legal entities can server multiple initiatives. For example, a legal entity for Magazine contain Magazine and Store intitiatives and is for-profit.
 
 The following initiatives are presented in this document:
- - Foundation\*
  - Magazine
  - Store
  - Publishing
  - Events
  - Research
+ - Awards
  - Physical spaces
+ - Lab
 
 *\*The only significant power the Foundation has is to protect the brand and community and, as a non-profit organization, to transparently redistribute money.*
 
-## 2.5. Cooperation
+## 2.6. Cooperation
 
 We collaborate with global and local partners and communities across the ecosystem which share similar values. We only work with reputable organisations and communities.
 
@@ -95,14 +106,6 @@ Examples of local groups (Czech):
  - [NFTSpace.cz](https://NFTSpace.cz)
  - [Gwei.cz](https://Gwei.cz)
  - [Jednadvacet](https://jednadvacet.org/)
-
-# 3. Foundation
-
-A transparent non-profit decentralized autonomnous organization (DAO) that protects the brand and the community and redistributes money from commercial sub-initiatives to non-profit ones.
-
-## 3.1. Legal entity
-
-TODO
 
 # 4. Magazine
 
@@ -336,26 +339,28 @@ An agency that produces reports and analysis.
 
 TODO
 
-# 9. Physical spaces
+# 9. Awards
+
+# 10. Physical spaces
 
 Physical places that are used to promote our initiatives, the topics our initiatives address and for community gatherings. Our spaces are heavily inspired by the [Paralelní Polis](https://www.paralelnipolis.cz/) concept, in the sense of an open and liberal place supporting and spreading individual freedoms. They are also important in spreading awareness of our brand as whole, similar way like [Apple Stores](https://www.apple.com/retail/), [Taschen Stores](https://www.taschen.com/en/stores) etc. 
 
 These venues are independently managed and we only provide brand, know-how and financial support through mutual cooperation.
 
-# 10. Other initiatives
+# 11. Lab
 
 There are many other segments where our initiative can be extended, but that is beyond the scope of this document.
 
 Here are some examples:
  - mobile application
    
-# 11. Boostrap camp
+# 12. Boostrap camp
 
 A week-long training camp for the Movement Founding Team and the Czech Editorial Team members. During this gathering, version 1.0 of this whitepaper will be finalised and a Programme Plan for the first few months will be drawn up.
 
 It will also serve as an educational camp, where we will go over the basics of journalism and social sciences.
 
-# 12. Roadmap proposal
+# 13. Roadmap proposal
 
 The development divided into phases could look something like this:
 
