@@ -345,6 +345,10 @@ TODO
 
 ## 3.6. Awards
 
+Awards for the best projects and teams in our ecosystem. Serving as a popularization and self-regulatory tool. A similar project is the [Křišťálová Lupa](https://kristalova.lupa.cz/2023/) (The Price of the Czech Internet).
+
+TODO
+
 ## 3.7. Space
 
 Physical places that are used to promote our initiatives, the topics our initiatives address and for community gatherings. Our spaces are heavily inspired by the [Paralelní Polis](https://www.paralelnipolis.cz/) concept, in the sense of an open and liberal place supporting and spreading individual freedoms. They are also important in spreading awareness of our brand as whole, similar way like [Apple Stores](https://www.apple.com/retail/), [Taschen Stores](https://www.taschen.com/en/stores) etc. 
@@ -360,7 +364,7 @@ Here are some examples:
    
 # 4. Bootstrap
 
-# 4.1. Roadmap proposal
+## 4.1. Roadmap proposal
 
 The development divided into phases could look something like this:
 
