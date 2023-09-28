@@ -358,7 +358,7 @@ There are many other segments where our initiative can be extended, but that is 
 Here are some examples:
  - mobile application
    
-# 4. Boostrap
+# 4. Bootstrap
 
 # 4.1. Roadmap proposal
 
@@ -377,7 +377,7 @@ The development divided into phases could look something like this:
      - Mobile app
      - Future initiatives
 
-## 4.2. Boostrap Camp
+## 4.2. Bootstrap Camp
 
 A week-long intensive gathering for the Movement Founding Team and the Czech Editorial Team members. During this gathering, version 1.0 of this whitepaper will be finalised and a Programme Plan for the first few months will be drawn up. It will also serve as an educational camp, where we will go over the basics of journalism and social sciences.
 
