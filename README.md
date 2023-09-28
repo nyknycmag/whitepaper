@@ -1,6 +1,6 @@
 # NYKNYC Whitepaper
 
-*28. September 2023 - version 0.6.0 (draft)*
+*28. September 2023 - version 0.6.1 (draft)*
 
 Authors:
 
@@ -394,6 +394,7 @@ It will also serve as an educational camp, where we will go over the basics of j
      - [Vice](https://en.wikipedia.org/wiki/Vice\_(magazine)) (magazine) - a Canadian-American magazine focused on lifestyle, arts, culture, and news/politics
      - [Nebula](https://nebula.tv/) (streaming platform) - creator-built and creator-owned streaming platform
      - [Mirror](https://mirror.xyz/) (publishing platform) - web3 publishing platform with NFT and decentralized storage integration
+     - [404media](https://www.404media.co/about/) (magazine) - a journalist-founded digital media company exploring the ways technology is shaping–and is shaped by–our world
  - Publishing
      - [Braiins Publishing](https://braiins.com/blog/braiins-publishing) (publisher) - educational initiative publishing books about bitcoin
        
