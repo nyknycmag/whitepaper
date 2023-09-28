@@ -379,9 +379,19 @@ The development divided into phases could look something like this:
 
 ## 4.2. Boostrap Camp
 
-A week-long training camp for the Movement Founding Team and the Czech Editorial Team members. During this gathering, version 1.0 of this whitepaper will be finalised and a Programme Plan for the first few months will be drawn up.
+A week-long intensive gathering for the Movement Founding Team and the Czech Editorial Team members. During this gathering, version 1.0 of this whitepaper will be finalised and a Programme Plan for the first few months will be drawn up. It will also serve as an educational camp, where we will go over the basics of journalism and social sciences.
 
-It will also serve as an educational camp, where we will go over the basics of journalism and social sciences.
+- Length: 7-14 days
+- Location: unknown
+- Date: October-November 2023
+- Number of people: 3-8
+
+Bootstrap Camp Scope:
+- Brainstorming together and finalizing the whitepaper
+- intensive recruitment of (external) authors
+- Creation of the basis of the programme plan (series) for the first months
+- Educational part - Teal organization, how to write, introduction to the ecosystem, etc.
+- hackathon part - finalizing our web3 publishing platform
        
 # 5. Appendix
 
