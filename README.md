@@ -5,6 +5,8 @@
 Authors:
 
  - Tree (tree@tree.fail)
+ - Petr Lukáč (@RuzovejSlon)
+ - Adam Kracík (@oAdamKo)
    
 ## Abstract
 
@@ -395,21 +397,7 @@ It will also serve as an educational camp, where we will go over the basics of j
  - Publishing
      - [Braiins Publishing](https://braiins.com/blog/braiins-publishing) (publisher) - educational initiative publishing books about bitcoin
        
-## 5.2. Review and comments
-
- - Petr Lukáč (@RuzovejSlon)
- - Adam Kracík (@oAdamKo)
- - Hynek Jína (@HynekJina)
- - Petr Menšík (@PolkadottersS)
- - Dušan Kmetyo (@DusanKmetyo)
- - Coinmandeer (@KeenOfCoin)
- - Jiří Čepelka (@JiriCepelka)
- - Kirill Juran (@KirillJuran)
- - Radek Švarz (@radk)
- - Jan Černý (@JanCerny)
- - Juraj Bednar (@jurbed)
-   
-## 5.3. Other references
+## 5.2. Other references
 
  - [https://www.trustnodes.com/our-values-and-ethics](https://www.trustnodes.com/our-values-and-ethics)
 ---
