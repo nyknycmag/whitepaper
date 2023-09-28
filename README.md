@@ -158,7 +158,7 @@ The basic unit of time for which content is planned. At launch it is one calenda
 
 #### 3.1.1.4. Content structure
 
-Content is structured into so-called "series". Each series has its own editor(s) and schedule. Users can "follow" each series in the interface to tailor the content. The series for the next "program period" is decided by the Editorial Team, taking into account the vote of NNM token-holders.
+Content is structured into so-called "series". Each series has its own editor(s) and schedule. Users can "follow" each series in the interface to tailor the content. The series for the next "program period" is decided by the Editorial Team, taking into account the vote of $NYKNYC token-holders.
 
 The series can be regular, one-off or irregular:
  - Regular series - recurring content, such as "A Week in Cryptocurrencies"
@@ -202,7 +202,7 @@ The content will not only consist of the core Editorial Team, but we also want t
 
 The basic subscription is uniform for the entire platform and the starting price is set at 10 EUR for 30 days. After paying the subscription fee, the person gets access to all content on the platform. The membership fee can be paid in cryptocurrencies or by credit card for any length of time, with a minimum amount of 10 EUR.
 
-Various bonuses and benefits are available for subscribers. One of the main one is that members receive portion of NNM tokens for every second of membership elapsed. Users can claim this tokens to their wallet and use it to vote on future content, trade for merchandise, etc. (see the "NNM token" section for more information).
+Various bonuses and benefits are available for subscribers. One of the main one is that members receive portion of $NYKNYC tokens for every second of membership elapsed. Users can claim this tokens to their wallet and use it to vote on future content, trade for merchandise, etc. (see the "$NYKNYC token" section for more information).
 
 #### 3.1.3.1. Distribution of subscription income
 
@@ -256,7 +256,7 @@ TODO
 
 TODO
 
-### 3.1.8. NNM Token
+### 3.1.8. $NYKNYC Token
 
 Utility token (ERC-20 standard), which members receive for every second of their membership that elapses. Members can claim this token on their wallet and use it for various things:
 
