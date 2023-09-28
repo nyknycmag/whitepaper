@@ -5,6 +5,7 @@
 Authors:
 
  - Tree (tree@tree.fail)
+   
 ## Abstract
 
 > NYKNYC is an outreach initiative and community dedicated to spreading news and education about cryptocurrencies and technologies that enhance individual freedom and privacy. The initiative consists of several parts and the main one is Magazine for cryptonatives.
@@ -34,7 +35,6 @@ The name "NYKNYC" is an abbreviation for "*Not your keys, not your coins*". It�
 ## 2.2. Values
 
 Guiding values of our movement are defined by these words:
-
  - decentralization
  - freedom
  - self-regulation
@@ -47,6 +47,7 @@ Guiding values of our movement are defined by these words:
  - resilience
  - honesty
  - humour & fun
+
 ## 2.3. Community
 
 The most important thing we build is community - a commonwealth of people who share common interests.
@@ -60,7 +61,6 @@ The movement includes many individual sub-initiatives that are managed separatel
 Don't confuse initiatives and legal entities - legal entities can server multiple initiatives. For example, a legal entity for Magazine contain Magazine and Store intitiatives and is for-profit.
 
 The following initiatives are presented in this document:
-
  - Foundation\*
  - Magazine
  - Store
@@ -68,6 +68,7 @@ The following initiatives are presented in this document:
  - Events
  - Research
  - Physical spaces
+
 *\*The only significant power the Foundation has is to protect the brand and community and, as a non-profit organization, to transparently redistribute money.*
 
 ## 2.5. Cooperation
@@ -75,7 +76,6 @@ The following initiatives are presented in this document:
 We collaborate with global and local partners and communities across the ecosystem which share similar values. We only work with reputable organisations and communities.
 
 Examples of groups we are interested in working with:
-
  - [Department of Decentralization](https://protocol.berlin/decentralization/) (DoD) - advocate decentralization and open-source
  - [Electronic Frontier Foundation](https://www.eff.org/) (EFF) - advocate for privacy rights and digital freedoms
  - [Web3Privacy Now](https://github.com/web3privacy) - educates about the importance of privacy
@@ -89,12 +89,13 @@ Examples of groups we are interested in working with:
  - [useWeb3.xyz](https://useWeb3.xyz) - starting point for web3
  - [CoinGecko](https://www.coingecko.com/) - aggregate cryptocurrency data
  - [CryptoCanal](https://www.cryptocanal.org/)
-Examples of local groups (Czech):
 
+Examples of local groups (Czech):
  - [Holky v kryptu](http://holkyvkryptu.cz/)
  - [NFTSpace.cz](https://NFTSpace.cz)
  - [Gwei.cz](https://Gwei.cz)
  - [Jednadvacet](https://jednadvacet.org/)
+
 # 3. Foundation
 
 A transparent non-profit decentralized autonomnous organization (DAO) that protects the brand and the community and redistributes money from commercial sub-initiatives to non-profit ones.
@@ -112,11 +113,11 @@ A sustainable online news and information platform that serve as the backbone of
 The goal is to build a reputable resource that gives people a quality information service and where also external authors can publish their analysis and reports (like [Bitcoin Magazine](https://bitcoinmagazine.com/)), but in unbiased and more neutral way.
 
 Main features:
-
  - unbiased reporting
  - in-depth research
  - community-driven insights
  - curated approach
+
 ## 4.1. Content
 
 We produce high quality and unique content, from renowned authors, curated by our Editorial Team. In addition to cryptocurrencies and technology, we also cover related overlapping topics such as art, culture and lifestyle. Our content is intended to be useful and interesting for the whole spectrum of people - from beginners to experts. We use all modern ways of delivering information such as articles, podcasts and videos.
@@ -126,26 +127,26 @@ We strive to honor the craft of journalism and bring you unbiased and verified i
 ### 4.1.1. Topics
 
 The main topics covered by our magazine are:
-
  - cryptocurrencies
  - technology
  - culture & arts
  - lifestyle
  - freedom
+
 ### 4.1.2. Formats
 
 We use all available modern tools for information distribution.
 
 The main formats are:
-
  - articles (text)
  - podcasts (audio)
-Additional formats are:
 
+Additional formats are:
  - video content
  - infographics
  - liveblogs - minute-by-minute updates on ongoing events
  - webinars
+
 ### 4.1.3. Programme period
 
 The basic unit of time for which content is planned. At launch it is one calendar month. The content for the next period is decided 2 weeks before the start of that period.
@@ -155,10 +156,10 @@ The basic unit of time for which content is planned. At launch it is one calenda
 Content is structured into so-called "series". Each series has its own editor(s) and schedule. Users can "follow" each series in the interface to tailor the content. The series for the next "program period" is decided by the Editorial Team, taking into account the vote of NNM token-holders.
 
 The series can be regular, one-off or irregular:
-
  - Regular series - recurring content, such as "A Week in Cryptocurrencies"
  - One-off series - multi-part content on a specific topic, for example "Introduction to ZK"
  - Irregular series - special and unpredictable events, such as hacks and exploits
+
 ### 4.1.5. Using decentralised storage
 
 We store all our content on decetralized storage such as Arweave or IPFS.
@@ -180,27 +181,16 @@ The content will not only consist of the core Editorial Team, but we also want t
 ### 4.2.3. Code of Conduct
 
 1. We promote decentralized and open cryptocurrencies and technologies.
-
 2. We gather the information we need to write our texts with one motivation: to truthfully inform the public about the things we think are important and should be of interest to them.
-
 3. We publish only verified information and are careful to verify our sources rigorously.
-
 4. The people and projects we report on are given a voice in the news that affects them negatively. The fact that those concerned refuse to comment to us is not a reason for not publishing an article.
-
 5. No one from outside the editorial office interferes in the work of the editorial team. This rule also extends to the owners of NYCKYC.
-
 6. Members of the editorial staff do not write reports on organizations or groups of which they are members, or on matters in which they have a vested interest, including their civic activities.
-
 7. We fundamentally distinguish real crypto-news from pseudo-crypto-news from the centralized world.
-
 8. We consistently separate news and opinion content. Advertising or any sponsored content is also clearly distinguished.
-
 9. We are not infallible. If we make a mistake, we admit it, apologize and correct it.
-
 10. The editorial team refers to anonymous sources in its reporting only minimally and only when the public interest cannot be served in any other way. The identity of the anonymous source is always known to the text editor or editor-in-chief.
-
 11. The editorial staff consistently protects its sources from anyone, including government authorities.
-
 12. No-bullshit policy: we do not report (positively) on unverified and untrustworthy projects (i.e. scams or projects with unhealthy signals).
 
 ## 4.3. Subscription
@@ -212,21 +202,21 @@ Various bonuses and benefits are available for subscribers. One of the main one 
 ### 4.3.1. Distribution of subscription income
 
 Subscription profit is distributed using the following formula:
-
  - 5% - NYKNYC Foundation
  - 10% - operation, maintenance and PR of the platform (magazine)
  - 35% - content authors split by team consensus (using [Coordinape](https://coordinape.com/) tool)
  - 50% - content authors split by real “consumption”
+
 ## 4.4. Frontend (dApp)
 
 The Magazine platform is primarily a web3 application. Users are able to log in with their wallet, interact with the content or customize their experience based on that.
 
 The basic interactions with the content are:
-
  - rating - like or dislike
  - comments
  - tipping - financial support
  - collecting - mint as NFT
+
 ### 4.4.1. Subscription process
 
 The option to become a member should be as simple as possible. We try to use modern technology to make the process even more convenient. We would like to introduce the possibility to pay with "streaming” tokens (like [Superfluid](https://www.superfluid.finance/)).
@@ -242,13 +232,13 @@ Minting is available only to paid members.
 We want to keep visitors up to date on the basic parameters of the ecosystem. These parameters and charts will be displayed on the site, in collaboration with NYKNYC Research.
 
 Examples of monitored parameters:
-
  - ETH & BTC price
  - Value locked ([DefiLlama TVL](https://defillama.com/))
  - Layer2s - TVL, transactions per second on [L2BEAT](https://l2beat.com/scaling/summary)
  - Current price of Gas fees
  - Crypto-Indexes such as the [State of Crypto Index](https://a16zcrypto.com/stateofcrypto/)
  - Network health - [Client Diversity](https://clientdiversity.org/), [Lido Staking marketshare](https://dune.com/hildobby/eth2-staking), [OFAC Compliant Blocks](https://www.mevwatch.info/) etc.
+
 ## 4.5. Language mutations
 
 Each language version has its own Editorial Team. We are starting with an English (global) and a Czech-language version, and everything will work very interconnected at the beginning, but later on the different language Editorial Teams should be independent and equal. The individual series are often translated from English to the local language and vice versa.
@@ -267,6 +257,7 @@ Utility token (ERC-20 standard), which members receive for every second of their
 
  - decide future content - vote on the series for the next program period
  - exchange for merchandise, partners offers or other bonuses
+   
 ## 4.9. Comparison with competitors
 
 ### 4.9.1. Cryptocurrency news sites
@@ -304,16 +295,15 @@ Online store with a wide range of products related to cryptocurrencies and our t
 There's a rule that 5% of the profits from sales go to the NYKNYC Foundation.
 
 Main features of our shop:
-
  - wide range of products
  - pro-customer approach
  - superfast delivery
  - cryptocurrency payment option (incl. private tokens)
  - “private” shipping
+
 ## 5.1. Product range
 
 The main items for sale are:
-
  - merchandise - clothing (t-shirts, socks, hats..), stickers, posters
  - education - books, magazines
  - art - canvases (possible NFT collaboration)
@@ -323,6 +313,7 @@ The main items for sale are:
  - ATMs - cryptocurrency atms (Bleskomat, General Bytes)
  - (ASIC) Miners (?)
  - gift cards - VPNs, etc. (Mullvad)
+   
 ## 5.2. Own production
 
 A large part of the product range is our own production. Whether it's our own swag or special limited collections created in collaboration with other communities (e.g. NFT) or individuals. It is our mission to give an opportunity to showcase various interesting artists and creative souls.
@@ -356,8 +347,8 @@ These venues are independently managed and we only provide brand, know-how and f
 There are many other segments where our initiative can be extended, but that is beyond the scope of this document.
 
 Here are some examples:
-
  - mobile application
+   
 # 11. Boostrap camp
 
 A week-long training camp for the Movement Founding Team and the Czech Editorial Team members. During this gathering, version 1.0 of this whitepaper will be finalised and a Programme Plan for the first few months will be drawn up.
@@ -379,7 +370,8 @@ The development divided into phases could look something like this:
      - Publishing
  - Phase 3+
      - Mobile app
-     - Future initiatives 
+     - Future initiatives
+       
 # Appendix
 
 ## Inspiration References
@@ -393,6 +385,7 @@ The development divided into phases could look something like this:
      - [Mirror](https://mirror.xyz/) (publishing platform) - web3 publishing platform with NFT and decentralized storage integration
  - Publishing
      - [Braiins Publishing](https://braiins.com/blog/braiins-publishing) (publisher) - educational initiative publishing books about bitcoin
+       
 ## Review and comments
 
  - Petr Lukáč (@RuzovejSlon)
@@ -406,11 +399,10 @@ The development divided into phases could look something like this:
  - Radek Švarz (@radk)
  - Jan Černý (@JanCerny)
  - Juraj Bednar (@jurbed)
+   
 ## Other references
 
  - [https://www.trustnodes.com/our-values-and-ethics](https://www.trustnodes.com/our-values-and-ethics)
 ---
 
 Thanks to everyone involved!!
-
-magazine focused on lifestyle, arts, culture, and news/politic
