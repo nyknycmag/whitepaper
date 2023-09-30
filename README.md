@@ -277,7 +277,7 @@ Our solution: Less bullshit, more responsibility and quality
 
 #### 3.1.9.2. Maximalist information sources
 
-Example: [Bitcoin Magazine](https://bitcoinmagazine.com/), [Bankless](https://www.bankless.com/)
+Example: [Bitcoin Magazine](https://bitcoinmagazine.com/), [Bankless](https://www.bankless.com/), [Citadel21](https://www.citadel21.com/)
 
 Mostly biased content created by people living in their echo chamber. Often offers quality content, but there is usually lack to perceive the wider circumstances and ecosystem. Critical thinking exists, but it is very much distorted by tribalism.
 
