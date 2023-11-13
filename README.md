@@ -5,8 +5,6 @@
 Authors:
 
  - Tree (tree@tree.fail)
- - Petr Lukáč (@RuzovejSlon)
- - Adam Kracík (@oAdamKo)
    
 ## Abstract
 
